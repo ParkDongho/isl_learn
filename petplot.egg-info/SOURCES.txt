@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+petplot/__init__.py
+petplot/blender.py
+petplot/plotter.py
+petplot/plotter3d.py
+petplot/support.py
+petplot.egg-info/PKG-INFO
+petplot.egg-info/SOURCES.txt
+petplot.egg-info/dependency_links.txt
+petplot.egg-info/top_level.txt

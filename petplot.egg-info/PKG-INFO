@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: petplot
+Version: 0.1
+Summary: Python module to render isl integer sets and maps
+Author: Tobias Grosser
+License-File: LICENSE
